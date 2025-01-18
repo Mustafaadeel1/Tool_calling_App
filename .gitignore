@@ -1,0 +1,7 @@
+
+.mypy_cache
+__pycache__
+.md
+speech_output.mp3
+requirements.txt
+env
