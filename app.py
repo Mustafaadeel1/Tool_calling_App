@@ -6,6 +6,8 @@ from tools import (text_to_speech, speech_to_text, image_to_text, Calculator,
                     fetch_latest_news, get_random_joke, fetch_stock_data)
 from langchain.tools import Tool
 
+import pyttsx3  # Ensure this library is installed
+# Other imports like speech-to-text or image-to-text modules must also be installed.
 
 # Example tool definitions
 tools = {
